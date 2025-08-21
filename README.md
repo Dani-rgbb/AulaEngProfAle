@@ -31,5 +31,4 @@ O Git revolucionou o desenvolvimento de software ao introduzir um sistema de con
 - **Flexibilidade**: Suporte a diferentes fluxos de trabalho, como Git Flow e GitHub Flow.
 - **Desempenho**: Operações locais rápidas e eficientes.
 
-Hoje, o Git é amplamente utilizado em projetos de todos os tamanhos, desde pequenos projetos pessoais até grandes sistemas corporativos.
-
+Hoje, o Git é amplamente utilizado em projetos de todos os tamanhos, desde pequenos projetos pessoais até grandes sistemas corporativos..
